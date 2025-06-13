@@ -220,4 +220,6 @@ This project uses code from the [Trezor project](https://github.com/trezor/trezo
 ## License
 This project is licensed under the [MIT License](/LICENSE)
 
-Update:  11.06.2025 12:26:22
+
+
+Update:  06/13/2025 04-17-39 url is operational
