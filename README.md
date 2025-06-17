@@ -224,4 +224,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update: Preview links
+
+
+Update:  06/17/2025 05-33 Updated IDE configuration documentation
